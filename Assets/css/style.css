@@ -1,10 +1,13 @@
+body {
+    background-image: url("../images/lghtmesh.png");
+    margin: 0;
 
-.navbar {
-    background-color: white;
 }
 
+
+
 .navbar-expand-lg {
-    padding: 0px;   
+    padding: 0px;
     
 }
 
@@ -14,6 +17,7 @@
     padding: 8px 8px 6px 8px;
     font-size: 18pt;
     height: 56px;
+    
     
 }
 
