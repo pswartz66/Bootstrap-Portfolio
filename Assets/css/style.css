@@ -20,7 +20,7 @@ body {
 }
 
 .navbar-collapse {
-    margin-right: 100px;
+    margin-right: 60px;
     
 }
 
@@ -31,9 +31,9 @@ body {
 
 .navbar-nav .nav-link {
     float: right;
-    text-align: left;
     
 }
+
 
 .container-fluid {
     margin: 6px;
@@ -41,14 +41,29 @@ body {
     
 }
 
-.row {
-    margin: 20px 60px 40px 60px;
-    
-    height: 680px;
+/* row content header */
+.content-header {
+    margin: 20px 60px 0px 60px;
+    height: 100px;
     background-color: #ffffff;
 }
 
-.col-sm-10 {
-    padding-left: 108px;
+#border-line {
+    padding-top: 24px;
+    padding-bottom: 14px;
+    border-bottom: 1.5px solid #cccccc;
+    width: 100%;
 
+}
+
+h4 {
+    color: #4aaaa5;
+
+}
+
+.content-section {
+    margin: 0 60px 40px 60px;
+    height: 400px;
+    background-color: #ffffff;
+    
 }
