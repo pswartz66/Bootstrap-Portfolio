@@ -4,16 +4,14 @@ body {
 
 }
 
-
-
 .navbar-expand-lg {
     padding: 0px;
     
 }
 
 .navbar-brand {
-    /* background-color: #4aaaa5; */
-    margin-left: 100px;
+    background-color: #4aaaa5;
+    margin-left: 69px;
     padding: 8px 8px 6px 8px;
     font-size: 18pt;
     height: 56px;
@@ -23,4 +21,34 @@ body {
 
 .navbar-collapse {
     margin-right: 100px;
+    
+}
+
+.navbar-toggler {
+    margin-right: 60px;
+    
+}
+
+.navbar-nav .nav-link {
+    float: right;
+    text-align: left;
+    
+}
+
+.container-fluid {
+    margin: 6px;
+    padding: 4px;
+    
+}
+
+.row {
+    margin: 20px 60px 40px 60px;
+    
+    height: 680px;
+    background-color: #ffffff;
+}
+
+.col-sm-10 {
+    padding-left: 108px;
+
 }
