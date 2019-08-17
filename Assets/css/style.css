@@ -51,7 +51,7 @@ body {
 }
 
 .nav-link:hover {
-    background-color: #4aaaa5;
+    background-color: #a0e9e5;
     color: #ffffff;
     
 }
@@ -69,6 +69,7 @@ body {
     margin: 20px 60px 0px 60px;
     height: 100px;
     background-color: #ffffff;
+    
 }
 
 #border-line {
@@ -86,15 +87,11 @@ h4 {
 
 .content-section {
     margin: 0 60px 40px 60px;
-    /* this line helps content stay with section 
-    review with TA on sat class: need to understand
-    better
-    */
-    /* height: 100vh - 100vh; */
     background-color: #ffffff;
     overflow: none;
     height: auto;
     color: #999;
+    
     
     
     
