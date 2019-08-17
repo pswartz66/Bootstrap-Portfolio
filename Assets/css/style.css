@@ -111,3 +111,107 @@ span {
     color: #ffffff;
 }
 
+.img-first-row {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.img-second-row {
+    float: left;
+    /* margin-top: 30px; */
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 30px;
+    
+    
+}
+
+img[alt*="chart_img"] {
+    height: 200px;
+    width: 200px;
+    overflow: none;
+    
+}
+
+.img_chart {
+    height: 40px;
+    width: 186px;
+    background-color: #4aaaa5;
+    position: absolute;
+    top: 140px;
+    left: -3px;
+
+    margin-left: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    text-align: center;
+
+}
+
+img[alt*="controller_img"] {
+    height: 200px;
+    width: 200px;
+    overflow: none;
+    
+}
+
+.img_controller {
+    height: 40px;
+    width: 186px;
+    background-color: #4aaaa5;
+    position: absolute;
+    top: 140px;
+    left: -3px;
+
+    margin-left: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    text-align: center;
+
+}
+
+img[alt*="ipad_img"] {
+    height: 200px;
+    width: 200px;
+    overflow: none;
+    
+}
+
+.img_ipad {
+    height: 40px;
+    width: 186px;
+    background-color: #4aaaa5;
+    position: absolute;
+    top: 140px;
+    left: -3px;
+
+    margin-left: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    text-align: center;
+
+}
+
+img[alt*="search_img"] {
+    height: 200px;
+    width: 200px;
+    overflow: none;
+    
+}
+
+.img_search {
+    height: 40px;
+    width: 186px;
+    background-color: #4aaaa5;
+    position: absolute;
+    top: 140px;
+    left: -3px;
+
+    margin-left: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    text-align: center;
+
+}
