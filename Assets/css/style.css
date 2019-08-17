@@ -10,13 +10,10 @@ body {
     
 }
 
-/* .bg-dark {
-    background-color: #ffffff !important;
-} */
 
 .navbar-brand {
     background-color: #4aaaa5;
-    margin-left: 69px;
+    margin-left: 60px;
     padding: 8px 8px 6px 8px;
     font-size: 18pt;
     height: 56px;
@@ -113,5 +110,4 @@ img {
 span {
     color: #ffffff;
 }
-
 
